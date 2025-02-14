@@ -13,6 +13,7 @@ const SearchBar = () => {
         />
       </div>
 
+
       
       <div className="relative w-full md:w-1/3">
         <FaPlaneArrival className="absolute left-4 top-1/2 transform -translate-y-1/2 text-blue-500 text-lg" />
