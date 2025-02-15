@@ -1,7 +1,6 @@
-
 const Footer = () => {
   return (
-    <footer className="bg-red-600 text-white p-4 text-center">
+    <footer className="bg-red-600 text-white p-4 sm:p-6 text-center">
       <p>&copy; 2025 Zomato. All rights reserved.</p>
     </footer>
   );
